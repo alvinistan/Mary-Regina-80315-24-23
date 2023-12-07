@@ -1,7 +1,0 @@
-[autorun]
-ICON=autorun.exe,0
-OPEN=autorun.exe /d index.htm
-SHELL\dcmviewer\command=autorun.exe /d
-SHELL\dcmviewer=Dicom Viewer
-EXTRACT=dicomvwr.cab;dvlang.cab
-VIEWER=workstation.exe
